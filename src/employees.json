@@ -1,0 +1,38 @@
+[
+    {
+      "id": 1,
+      "name": "Bob",
+      "occupation": "Engineer",
+      "email": "bob@place.com"
+    },
+    {
+     "id": 2,
+      "name": "Rick",
+      "occupation": "Intern",
+      "email": "rick@place.com"
+    },
+    {
+      "id": 3,
+      "name": "Sally",
+      "occupation": "Intern",
+      "email": "sally@place.com"
+    },
+    {
+      "id": 4,
+      "name": "Tim",
+      "occupation": "Manager",
+      "email": "tim@place.com"
+    },
+    {
+      "id": 5,
+      "name": "Ned",
+      "occupation": "Engineer",
+      "email": "ned@place.com"
+    },
+    {
+      "id": 6,
+      "name": "Jill",
+      "occupation": "CEO",
+      "email": "jill@place.com"
+    }
+  ]
